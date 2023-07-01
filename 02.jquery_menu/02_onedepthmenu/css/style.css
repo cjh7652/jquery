@@ -1,0 +1,10 @@
+#wrap{width: 100%; margin: 100px;}
+
+#wrap #nav li{text-align: center; width: 113px; cursor: pointer;}
+#wrap #nav li .menu-image{height:0; overflow: hidden;}
+
+#wrap #nav li .text-imgae{text-align: center;}
+
+#wrap #nav li .text-imgae .on{display: none;}
+#wrap #nav li .text-imgae>div{padding: 10px 0;}
+
